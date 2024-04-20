@@ -4,7 +4,6 @@
     <groupId>com.github.Kratos1996</groupId>
     <artifactId>CoreLibCompose</artifactId>
     <version>1.0.3</version>
-    <packaging>aar</packaging>
     <dependencies>
         <dependency>
             <groupId>androidx.core</groupId>
