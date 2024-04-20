@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.Kratos1996</groupId>
     <artifactId>corelib</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.6</version>
     <dependencies>
         <dependency>
             <groupId>androidx.core</groupId>
