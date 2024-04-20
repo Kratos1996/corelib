@@ -4,4 +4,4 @@ before_install:
   - ./scripts/prepareJitpackEnvironment.sh
 install:
   FILE="-Dfile=corelibcompose-release.aar"
-  mvn install:install-file $FILE -DgroupId=com.github.Kratos1996 -DartifactId=CoreLibraryCompose -Dversion=1.0.3 -Dpackaging=aar -DpomFile=pom.xml
+  mvn install:install-file $FILE -DgroupId=com.github.Kratos1996 -DartifactId=corelib -Dversion=1.0.4 -Dpackaging=aar -DpomFile=pom.xml
