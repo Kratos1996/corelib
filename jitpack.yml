@@ -1,5 +1,5 @@
 install:
-  FILE="-Dfile=corelibcompose-release.aar"
-  mvn install:install-file $FILE -DgroupId=com.github.Kratos1996 -DartifactId=CoreLibCompose -Dversion=1.0.0 -Dpackaging=aar -DpomFile=pom.xml
+  FILE="-Dfile=CoreLibCompose-release.aar"
+  mvn install:install-file $FILE -DgroupId=com.github.Kratos1996 -DartifactId=CoreLibCompose -Dversion=1.0.1 -Dpackaging=aar -DpomFile=pom.xml
 jdk:
   - openjdk17
