@@ -11,7 +11,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation ("com.github.Kratos1996:corelib:1.0.7")
+	        implementation ("com.github.Kratos1996:corelib:1.0.7@aar")
 	}
 Share this release:   [![](https://jitpack.io/v/Kratos1996/corelib.svg)](https://jitpack.io/#Kratos1996/corelib)
 
