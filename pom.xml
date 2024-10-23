@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.Kratos1996</groupId>
     <artifactId>corelib</artifactId>
-    <version>1.1.5</version>
+    <version>1.1.6</version>
     <dependencies>
         <dependency>
             <groupId>androidx.core</groupId>
@@ -128,12 +128,12 @@
         <dependency>
             <groupId>io.coil-kt</groupId>
             <artifactId>coil-svg</artifactId>
-            <version>2.4.0</version>
+            <version>2.6.0</version>
         </dependency>
         <dependency>
             <groupId>io.coil-kt</groupId>
             <artifactId>coil-gif</artifactId>
-            <version>2.4.0</version>
+            <version>2.6.0</version>
         </dependency>
         <dependency>
             <groupId>com.github.bumptech.glide</groupId>
@@ -143,7 +143,7 @@
         <dependency>
             <groupId>io.coil-kt</groupId>
             <artifactId>coil-compose</artifactId>
-            <version>2.4.0</version>
+            <version>2.6.0</version>
         </dependency>
         <dependency>
             <groupId>com.squareup.retrofit2</groupId>
